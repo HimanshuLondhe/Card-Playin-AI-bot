@@ -1,6 +1,6 @@
 # Card-Playin-AI-bot-
 
-In this project we programmed an agent to play trick taking games such as Hearts,
+In this project I have programmed an agent to play trick taking games such as Hearts,
 Spades, and Bridge.
 Simple Trick Taking Game
 
